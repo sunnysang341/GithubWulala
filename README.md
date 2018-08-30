@@ -14,7 +14,7 @@ This sample includes:
   application for deployment to AWS Lambda
 * main.go - this file contains the sample Go code for the web application
 * main_test.go - this file contains unit tests for the sample Go code
-* template.yml - this file contains the AWS Serverless Application Model (AWS SAM) used
+* template.yml - this file contains the AWS Serverless Applicdfgkjdfghikjfsghkjfdghjkdfghjkdfghjkdfghjation Model (AWS SAM) used
   by AWS CloudFormation to deploy your application to AWS Lambda and Amazon API
   Gateway.
   asdsfasdfafd
